@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "tiny-agent"
 version = "0.1.0"
 description = "A lightweight AI agent framework"
-authors = [{name = "ubuntupunk", email = "ubuntupunk@gmail.com"}]
+authors = [{name = "user", email = "user@example.com"}]
 license = {text = "MIT"}
 readme = "README.md"
 requires-python = ">=3.11"

@@ -54,4 +54,4 @@ Fork this repo and create a PR request.
 
 ## License
 
-Copyright Tiny Agent 2025. MIT License - see LICENSE file for details.
+Copyright Tiny Agent 2025. MIT License - see [LICENSE](LICENSE) file for details.

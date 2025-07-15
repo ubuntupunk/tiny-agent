@@ -49,6 +49,9 @@ The tiny-agent framework consists of:
 - **Memory**: Simple in-memory storage for agent state
 - **CLI**: Command-line interface for agent interaction
 
+## Contribute
+Fork this repo and create a PR request.
+
 ## License
 
-MIT License - see LICENSE file for details.
+Copyright Tiny Agent 2025. MIT License - see LICENSE file for details.
